@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "@react-google-maps/api": "^2.20.5",
     "axios": "^1.7.9"
   },
   "name": "central-perk",
   "version": "1.0.0",
   "description": "central-perk is an app which let's you find optimal hangout location",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
